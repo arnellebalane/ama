@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-~I get a lot of questions by email~ *(not applicable to me lol)*. This way anyone can read the answer!
+~~I get a lot of questions by email~~ *(not applicable to me lol)*. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
